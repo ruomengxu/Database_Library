@@ -1,0 +1,14 @@
+c:\users\xin\documents\visual studio 2012\Projects\CS_library\CS_library\bin\Debug\CS_library.exe.config
+c:\users\xin\documents\visual studio 2012\Projects\CS_library\CS_library\bin\Debug\CS_library.exe
+c:\users\xin\documents\visual studio 2012\Projects\CS_library\CS_library\bin\Debug\CS_library.pdb
+c:\users\xin\documents\visual studio 2012\Projects\CS_library\CS_library\obj\Debug\CS_library.csprojResolveAssemblyReference.cache
+c:\users\xin\documents\visual studio 2012\Projects\CS_library\CS_library\obj\Debug\CS_library.Form1.resources
+c:\users\xin\documents\visual studio 2012\Projects\CS_library\CS_library\obj\Debug\CS_library.Properties.Resources.resources
+c:\users\xin\documents\visual studio 2012\Projects\CS_library\CS_library\obj\Debug\CS_library.csproj.GenerateResource.Cache
+c:\users\xin\documents\visual studio 2012\Projects\CS_library\CS_library\obj\Debug\CS_library.exe
+c:\users\xin\documents\visual studio 2012\Projects\CS_library\CS_library\obj\Debug\CS_library.pdb
+c:\users\xin\documents\visual studio 2012\Projects\CS_library\CS_library\obj\Debug\CS_library.AdminMain.resources
+c:\Users\xin\Documents\Visual Studio 2012\Projects\CS_library\CS_library\obj\Debug\CS_library.Reader.resources
+c:\Users\xin\Documents\Visual Studio 2012\Projects\CS_library\CS_library\obj\Debug\CS_library.BorrowReturn.resources
+c:\Users\xin\Documents\Visual Studio 2012\Projects\CS_library\CS_library\obj\Debug\CS_library.Insert.resources
+c:\Users\xin\Documents\Visual Studio 2012\Projects\CS_library\CS_library\obj\Debug\CS_library.Card.resources
